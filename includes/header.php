@@ -36,7 +36,7 @@
           <a class="navbar-brand" href="https://www.malscan.org" id="project-name">Malscan</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
-          <nav class="nav navbar-nav">
+          <nav role="navigation">
             <ul class="nav navbar-nav navbar-left">
               <li><a href="download.html">Download</a></li>
               <li><a href="documentation.html">Documentation</a></li>

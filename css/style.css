@@ -11,3 +11,11 @@ body {
 #project-name {
 	color: #00a800;
 }
+
+.navbar-left {
+	float: left;
+}
+
+.navbar-right {
+	float: right;
+}
