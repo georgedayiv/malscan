@@ -24,7 +24,8 @@ body {
 }
 
 .navbar-left, .navbar-right {
-	width: 25%;
+	width: auto;
+	text-align: center;
 }
 
 .navbar-links {
