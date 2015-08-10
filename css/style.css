@@ -17,10 +17,16 @@ body {
 	position: relative;
 	left: 50%;
 	transform: translateX(-50%);
+	margin-top: 8px;
+	margin-bottom: 8px;
 }
 
 .navbar-brand {
 	font-size: 300%;
+}
+
+.navbar-collapse nav {
+	position: absolute;
 }
 
 .navbar-left {
