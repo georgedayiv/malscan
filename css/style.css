@@ -23,7 +23,7 @@ body {
     position: relative;
 }
 
-.navbar-left .navbar-right {
+.navbar-left, .navbar-right {
 	width: 25%;
 }
 
