@@ -24,7 +24,7 @@
     <![endif]-->
   </head>
   <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar container-fluid navbar-inverse">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -39,11 +39,11 @@
           <nav role="navigation">
             <ul class="nav navbar-nav navbar-left navbar-links">
               <li><a href="download.html">Download</a></li>
-              <li><a href="documentation.html">Documentation</a></li>
+              <li style="margin-left: 15px"><a href="documentation.html">Documentation</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right navbar-links">
-              <li><a href="report.html">Report A Bug</a></li>
-              <li><a href="contact.html">Contact</a></li>
+              <li style="margin-right: 15px"><a href="report.html">Report A Bug</a></li>
+              <li><a href="contact.html">Contact Us</a></li>
             </ul>
           </ul>
         </div><!--/.nav-collapse -->

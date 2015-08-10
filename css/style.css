@@ -15,7 +15,7 @@ body {
 	font-size: 300%;
     position: absolute;
     left: 50%;
-    margin-left: -93px !important;  /* 50% of your logo width */
+    margin-left: -88px !important;  /* 50% of your logo width */
     display: block;
 }
 
@@ -28,5 +28,5 @@ body {
 }
 
 .navbar-links {
-	font-size: 16px;
+	font-size: 18px;
 }
