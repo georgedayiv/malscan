@@ -12,6 +12,13 @@ body {
 	color: #00a800;
 }
 
+.navbar-header {
+	text-align: center;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
 .navbar-left {
 	float: left;
 }
