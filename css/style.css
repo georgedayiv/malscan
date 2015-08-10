@@ -25,8 +25,14 @@ body {
 
 .navbar-left {
 	float: left;
+	text-align: right;
 }
 
 .navbar-right {
 	float: right;
+	text-align: left;
+}
+
+.navbar-links {
+	font-size: 16px;
 }
