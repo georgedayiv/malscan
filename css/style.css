@@ -12,27 +12,19 @@ body {
 	color: #00a800;
 }
 
-.navbar-header {
-	text-align: center;
-	position: relative;
-	left: 50%;
-	transform: translateX(-50%);
-	margin-top: 8px;
-	margin-bottom: 8px;
-}
-
 .navbar-brand {
 	font-size: 300%;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px !important;  /* 50% of your logo width */
+    display: block;
 }
 
-.navbar-left {
-	float: left;
-	text-align: right;
+.navbar {
+    position: relative;
 }
+.brand {
 
-.navbar-right {
-	float: right;
-	text-align: left;
 }
 
 .navbar-links {

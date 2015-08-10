@@ -37,22 +37,14 @@
         </div> 
         <div id="navbar" class="collapse navbar-collapse">
           <nav role="navigation">
-            <div class="col-md-12">
-              <ul class="nav navbar-nav navbar-left navbar-links">
-                <li><a href="download.html">Download</a></li>
-                <li><a href="documentation.html">Documentation</a></li>
-              </ul>
-            </div>
-            <div class="col-md-12">
-              <ul class="nav navbar-nav navbar-right navbar-links">
-                <div class="col-md-6">
-                  <li><a href="report.html">Report A Bug</a></li>
-                </div>
-                <div class="col-md-6">
-                  <li><a href="contact.html">Contact</a></li>
-                </div>
-              </ul>
-            </div>
+            <ul class="nav navbar-nav navbar-left navbar-links">
+              <li><a href="download.html">Download</a></li>
+              <li><a href="documentation.html">Documentation</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right navbar-links">
+              <li><a href="report.html">Report A Bug</a></li>
+              <li><a href="contact.html">Contact</a></li>
+            </ul>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
